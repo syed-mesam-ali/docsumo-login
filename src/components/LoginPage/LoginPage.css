@@ -1,0 +1,31 @@
+.loginPage {
+  margin-top: 25px;
+}
+.login-btn {
+  width: 100%;
+}
+.custom-link {
+  font-size: 14px;
+  color: #000;
+  text-decoration: none;
+  float: right;
+}
+.custom-link:hover {
+  text-decoration: underline;
+}
+.signup-div {
+  font-size: 18px;
+}
+.signup-link {
+  cursor: pointer;
+  color: #4d61fc;
+  font-weight: 600;
+  text-decoration: none;
+}
+.signup-link:hover {
+  text-decoration: underline;
+}
+.userName-span {
+  color: #4d61fc;
+  font-weight: 600;
+}
